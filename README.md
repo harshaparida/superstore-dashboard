@@ -17,7 +17,7 @@ The story highlights key business insights to help improve sales strategy, produ
 ## 📂 Files
 - `Superstore_Dashboard.twbx` – Tableau packaged workbook
 - `Superstore_Story.pdf` – Exported storyboard in PDF format
-- `dashboard_preview.png` – (Optional) Screenshot of the dashboard
+- `dashboard_preview.png` – Screenshot of the dashboard
 
 ## 📌 Tools Used
 - Tableau Desktop
